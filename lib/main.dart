@@ -38,7 +38,7 @@ class _WebViewScreenState extends State<WebViewScreen> {
       ))
       ..setJavaScriptMode(JavaScriptMode.unrestricted)
       ..loadRequest(
-        Uri.parse('https://teste.alphaaprova.com.br'),
+        Uri.parse('https://nutrio.com.br/login'),
       );
   }
   @override
