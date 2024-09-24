@@ -51,6 +51,7 @@ flutter_native_splash:
   android: true
   ios: true
   web: true
+  fullscreen: true
 
 dev_dependencies:
   flutter_launcher_icons: ^0.13.0
